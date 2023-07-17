@@ -43,5 +43,5 @@ The complete solution is given in the well documented python file. Please run al
 ## Authors
 
 - Tanmay Thapliyal
-- Mathang S
+- Mathangi S
 - Shahul Hameed
