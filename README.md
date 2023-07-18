@@ -3,7 +3,7 @@ This is a case study for a company which wants to understand its data and infer 
 
 ## Contents
 * 'Lead Scoring Case Study.ipynb' - a well documented python file that includes the analysis, from data collection and cleaning to eda, model builing and conclusion.
-* 'Assignment Subjective Questions.docx' - a word file that contains detailed questions and its answers that company asked based on model that was prepared.
+* 'Assignment Subjective Questions.pdf' - a PDF file that contains detailed questions and its answers that company asked based on model that was prepared.
 * 'Lead Scoring Assignment_PPT.pdf' - a PPT converted to PDF format with consise details of the flow of case study.
 * 'Lead Scoring Assignment_Summary.pdf' - a PDF file containing brief summary of the complete case study, the problem, the solution and the conclusion and how we arrived to it.
 * 'Leads.csv' - the actual data on which the analysis is done.
